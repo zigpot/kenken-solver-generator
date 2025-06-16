@@ -1,0 +1,13 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+*.env
+.env
+.DS_Store
+.ipynb_checkpoints/
+
