@@ -1,0 +1,722 @@
+Puzzle 1:
+size: 9
+allowed_numbers: 1 2 3 4 5 6 7 8 9
+hint,cells,anchor
+6x,(0,0);(0,1),(0,0)
+2÷,(0,2);(0,3),(0,2)
+8+,(0,4);(0,5),(0,4)
+7-,(0,6);(0,7),(0,6)
+28x,(0,8);(1,8),(0,8)
+9+,(1,0);(1,1),(1,0)
+7-,(1,2);(2,2),(1,2)
+30x,(1,3);(1,4),(1,3)
+10+,(1,5);(2,5),(1,5)
+5-,(1,6);(1,7),(1,6)
+4÷,(2,0);(3,0),(2,0)
+12x,(2,1);(3,1),(2,1)
+6,(2,3),(2,3)
+15+,(2,4);(3,4),(2,4)
+9,(2,6),(2,6)
+105x,(2,7);(3,7);(3,6),(2,7)
+14+,(2,8);(3,8);(4,8),(2,8)
+3÷,(3,2);(3,3),(3,2)
+2-,(3,5);(4,5),(3,5)
+4÷,(4,0);(4,1),(4,0)
+63x,(4,2);(5,2);(4,3),(4,2)
+13+,(4,4);(5,4),(4,4)
+120x,(4,6);(5,6);(4,7),(4,6)
+5,(5,0),(5,0)
+3-,(5,1);(6,1),(5,1)
+12+,(5,3);(6,3);(6,4),(5,3)
+2-,(5,5);(6,5),(5,5)
+64x,(5,7);(6,7);(6,8),(5,7)
+1,(5,8),(5,8)
+19+,(6,0);(7,0);(8,0),(6,0)
+2-,(6,2);(7,2),(6,2)
+8x,(6,6);(7,6),(6,6)
+15+,(7,1);(8,1);(8,2),(7,1)
+108x,(7,3);(8,3);(8,4),(7,3)
+2÷,(7,4);(7,5),(7,4)
+14+,(7,7);(8,7);(8,6),(7,7)
+1-,(7,8);(8,8),(7,8)
+4,(8,5),(8,5)
+
+Puzzle 2:
+size: 9
+allowed_numbers: 1 2 3 4 5 6 7 8 9
+hint,cells,anchor
+6x,(0,0);(0,1),(0,0)
+2÷,(0,2);(0,3),(0,2)
+8+,(0,4);(0,5),(0,4)
+7-,(0,6);(0,7),(0,6)
+28x,(0,8);(1,8),(0,8)
+9+,(1,0);(1,1),(1,0)
+7-,(1,2);(2,2),(1,2)
+30x,(1,3);(1,4),(1,3)
+10+,(1,5);(2,5),(1,5)
+5-,(1,6);(1,7),(1,6)
+4÷,(2,0);(3,0),(2,0)
+12x,(2,1);(3,1),(2,1)
+6,(2,3),(2,3)
+15+,(2,4);(3,4),(2,4)
+9,(2,6),(2,6)
+105x,(2,7);(3,7);(3,6),(2,7)
+14+,(2,8);(3,8);(4,8),(2,8)
+3÷,(3,2);(3,3),(3,2)
+2-,(3,5);(4,5),(3,5)
+4÷,(4,0);(4,1),(4,0)
+63x,(4,2);(5,2);(4,3),(4,2)
+13+,(4,4);(5,4),(4,4)
+120x,(4,6);(5,6);(4,7),(4,6)
+5,(5,0),(5,0)
+3-,(5,1);(6,1),(5,1)
+12+,(5,3);(6,3);(6,4),(5,3)
+2-,(5,5);(6,5),(5,5)
+64x,(5,7);(6,7);(6,8),(5,7)
+1,(5,8),(5,8)
+19+,(6,0);(7,0);(8,0),(6,0)
+2-,(6,2);(7,2),(6,2)
+8x,(6,6);(7,6),(6,6)
+15+,(7,1);(8,1);(8,2),(7,1)
+108x,(7,3);(8,3);(8,4),(7,3)
+2÷,(7,4);(7,5),(7,4)
+14+,(7,7);(8,7);(8,6),(7,7)
+1-,(7,8);(8,8),(7,8)
+4,(8,5),(8,5)
+
+Puzzle 2:
+size: 9
+allowed_numbers: 1 2 3 4 5 6 7 8 9
+hint,cells,anchor
+24x,(0,0);(0,1),(0,0)
+13+,(0,2);(0,3),(0,2)
+1,(0,4),(0,4)
+2÷,(0,5);(1,5),(0,5)
+3÷,(0,6);(1,6),(0,6)
+3-,(0,7);(0,8),(0,7)
+5x,(1,0);(1,1),(1,0)
+10+,(1,2);(1,3),(1,2)
+2-,(1,4);(2,4),(1,4)
+56x,(1,7);(1,8),(1,7)
+5+,(2,0);(3,0),(2,0)
+2,(2,1),(2,1)
+1-,(2,2);(2,3),(2,2)
+120x,(2,5);(2,6);(3,5),(2,5)
+6+,(2,7);(3,7);(3,8),(2,7)
+6,(2,8),(2,8)
+40x,(3,1);(3,2),(3,1)
+17+,(3,3);(4,3);(4,2),(3,3)
+84x,(3,4);(4,4);(4,5),(3,4)
+17+,(3,6);(4,6);(5,6),(3,6)
+1,(4,0),(4,0)
+1-,(4,1);(5,1),(4,1)
+3÷,(4,7);(4,8),(4,7)
+168x,(5,0);(6,0);(7,0),(5,0)
+6+,(5,2);(5,3);(6,2),(5,2)
+162x,(5,4);(5,5);(6,5),(5,4)
+16+,(5,7);(5,8);(6,7),(5,7)
+6,(6,1),(6,1)
+8x,(6,3);(7,3);(8,3),(6,3)
+15+,(6,4);(7,4);(8,4),(6,4)
+30x,(6,6);(7,6);(8,6),(6,6)
+3÷,(6,8);(7,8),(6,8)
+19+,(7,1);(7,2);(8,2),(7,1)
+7-,(7,5);(8,5),(7,5)
+216x,(7,7);(8,7);(8,8),(7,7)
+5-,(8,0);(8,1),(8,0)
+
+Hello! Starting KenKen solver.
+Analyzing cages…
+The cage covering (1,1), (1,2) must have a product of 24.
+  Valid combos: [(3, 8), (4, 6), (6, 4), (8, 3)]
+The cage covering (1,3), (1,4) must have a sum of 13.
+  Valid combos: [(4, 9), (5, 8), (6, 7), (7, 6), (8, 5), (9, 4)]
+The cage covering (1,8), (1,9) must have a difference of 3.
+  Valid combos: [(1, 4), (2, 5), (3, 6), (4, 1), (4, 7), (5, 2), (5, 8), (6, 3), (6, 9), (7, 4), (8, 5), (9, 6)]
+The cage covering (2,1), (2,2) must have a product of 5.
+  Valid combos: [(1, 5), (5, 1)]
+The cage covering (2,3), (2,4) must have a sum of 10.
+  Valid combos: [(1, 9), (2, 8), (3, 7), (4, 6), (6, 4), (7, 3), (8, 2), (9, 1)]
+The cage covering (2,5), (3,5) must have a difference of 2.
+  Valid combos: [(1, 3), (2, 4), (3, 1), (3, 5), (4, 2), (4, 6), (5, 3), (5, 7), (6, 4), (6, 8), (7, 5), (7, 9), (8, 6), (9, 7)]
+The cage covering (2,8), (2,9) must have a product of 56.
+  Valid combos: [(7, 8), (8, 7)]
+The cage covering (3,1), (4,1) must have a sum of 5.
+  Valid combos: [(1, 4), (2, 3), (3, 2), (4, 1)]
+The cage covering (3,3), (3,4) must have a difference of 1.
+  Valid combos: [(1, 2), (2, 1), (2, 3), (3, 2), (3, 4), (4, 3), (4, 5), (5, 4), (5, 6), (6, 5), (6, 7), (7, 6), (7, 8), (8, 7), (8, 9), (9, 8)]
+The cage covering (3,6), (3,7), (4,6) must have a product of 120.
+  Valid combos: [(3, 5, 8), (3, 8, 5), (4, 5, 6), (4, 6, 5), (5, 3, 8), (5, 4, 6), (5, 6, 4), (5, 8, 3), (6, 4, 5), (6, 5, 4), (8, 3, 5), (8, 5, 3)]
+The cage covering (3,8), (4,8), (4,9) must have a sum of 6.
+  Valid combos: [(1, 2, 3), (1, 3, 2), (1, 4, 1), (2, 1, 3), (2, 3, 1), (3, 1, 2), (3, 2, 1)]
+The cage covering (4,2), (4,3) must have a product of 40.
+  Valid combos: [(5, 8), (8, 5)]
+The cage covering (4,4), (5,4), (5,3) must have a sum of 17.
+  Valid combos: [(1, 7, 9), (1, 9, 7), (2, 6, 9), (2, 7, 8), (2, 8, 7), (2, 9, 6), (3, 5, 9), (3, 6, 8), (3, 8, 6), (3, 9, 5), (4, 5, 8), (4, 6, 7), (4, 7, 6), (4, 8, 5), (4, 9, 4), (5, 3, 9), (5, 4, 8), (5, 7, 5), (5, 8, 4), (5, 9, 3), (6, 2, 9), (6, 3, 8), (6, 4, 7), (6, 5, 6), (6, 7, 4), (6, 8, 3), (6, 9, 2), (7, 1, 9), (7, 2, 8), (7, 3, 7), (7, 4, 6), (7, 6, 4), (7, 8, 2), (7, 9, 1), (8, 1, 8), (8, 2, 7), (8, 3, 6), (8, 4, 5), (8, 5, 4), (8, 6, 3), (8, 7, 2), (9, 1, 7), (9, 2, 6), (9, 3, 5), (9, 5, 3), (9, 6, 2), (9, 7, 1)]
+The cage covering (4,5), (5,5), (5,6) must have a product of 84.
+  Valid combos: [(2, 6, 7), (2, 7, 6), (3, 4, 7), (3, 7, 4), (4, 3, 7), (4, 7, 3), (6, 2, 7), (6, 7, 2), (7, 2, 6), (7, 3, 4), (7, 4, 3), (7, 6, 2)]
+The cage covering (4,7), (5,7), (6,7) must have a sum of 17.
+  Valid combos: [(1, 7, 9), (1, 9, 7), (2, 6, 9), (2, 7, 8), (2, 8, 7), (2, 9, 6), (3, 5, 9), (3, 6, 8), (3, 8, 6), (3, 9, 5), (4, 5, 8), (4, 6, 7), (4, 7, 6), (4, 8, 5), (5, 3, 9), (5, 4, 8), (5, 8, 4), (5, 9, 3), (6, 2, 9), (6, 3, 8), (6, 4, 7), (6, 7, 4), (6, 8, 3), (6, 9, 2), (7, 1, 9), (7, 2, 8), (7, 4, 6), (7, 6, 4), (7, 8, 2), (7, 9, 1), (8, 2, 7), (8, 3, 6), (8, 4, 5), (8, 5, 4), (8, 6, 3), (8, 7, 2), (9, 1, 7), (9, 2, 6), (9, 3, 5), (9, 5, 3), (9, 6, 2), (9, 7, 1)]
+The cage covering (5,2), (6,2) must have a difference of 1.
+  Valid combos: [(1, 2), (2, 1), (2, 3), (3, 2), (3, 4), (4, 3), (4, 5), (5, 4), (5, 6), (6, 5), (6, 7), (7, 6), (7, 8), (8, 7), (8, 9), (9, 8)]
+The cage covering (6,1), (7,1), (8,1) must have a product of 168.
+  Valid combos: [(3, 7, 8), (3, 8, 7), (4, 6, 7), (4, 7, 6), (6, 4, 7), (6, 7, 4), (7, 3, 8), (7, 4, 6), (7, 6, 4), (7, 8, 3), (8, 3, 7), (8, 7, 3)]
+The cage covering (6,3), (6,4), (7,3) must have a sum of 6.
+  Valid combos: [(1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), (3, 2, 1), (4, 1, 1)]
+The cage covering (6,5), (6,6), (7,6) must have a product of 162.
+  Valid combos: [(3, 6, 9), (3, 9, 6), (6, 3, 9), (6, 9, 3), (9, 2, 9), (9, 3, 6), (9, 6, 3)]
+The cage covering (6,8), (6,9), (7,8) must have a sum of 16.
+  Valid combos: [(1, 6, 9), (1, 7, 8), (1, 8, 7), (1, 9, 6), (2, 5, 9), (2, 6, 8), (2, 7, 7), (2, 8, 6), (2, 9, 5), (3, 4, 9), (3, 5, 8), (3, 6, 7), (3, 7, 6), (3, 8, 5), (3, 9, 4), (4, 3, 9), (4, 5, 7), (4, 6, 6), (4, 7, 5), (4, 9, 3), (5, 2, 9), (5, 3, 8), (5, 4, 7), (5, 7, 4), (5, 8, 3), (5, 9, 2), (6, 1, 9), (6, 2, 8), (6, 3, 7), (6, 5, 5), (6, 7, 3), (6, 8, 2), (6, 9, 1), (7, 1, 8), (7, 3, 6), (7, 4, 5), (7, 5, 4), (7, 6, 3), (7, 8, 1), (8, 1, 7), (8, 2, 6), (8, 3, 5), (8, 4, 4), (8, 5, 3), (8, 6, 2), (8, 7, 1), (9, 1, 6), (9, 2, 5), (9, 3, 4), (9, 4, 3), (9, 5, 2), (9, 6, 1)]
+The cage covering (7,4), (8,4), (9,4) must have a product of 8.
+  Valid combos: [(1, 2, 4), (1, 4, 2), (2, 1, 4), (2, 4, 1), (4, 1, 2), (4, 2, 1)]
+The cage covering (7,5), (8,5), (9,5) must have a sum of 15.
+  Valid combos: [(1, 5, 9), (1, 6, 8), (1, 8, 6), (1, 9, 5), (2, 4, 9), (2, 5, 8), (2, 6, 7), (2, 7, 6), (2, 8, 5), (2, 9, 4), (3, 4, 8), (3, 5, 7), (3, 7, 5), (3, 8, 4), (4, 2, 9), (4, 3, 8), (4, 5, 6), (4, 6, 5), (4, 8, 3), (4, 9, 2), (5, 1, 9), (5, 2, 8), (5, 3, 7), (5, 4, 6), (5, 6, 4), (5, 7, 3), (5, 8, 2), (5, 9, 1), (6, 1, 8), (6, 2, 7), (6, 4, 5), (6, 5, 4), (6, 7, 2), (6, 8, 1), (7, 2, 6), (7, 3, 5), (7, 5, 3), (7, 6, 2), (8, 1, 6), (8, 2, 5), (8, 3, 4), (8, 4, 3), (8, 5, 2), (8, 6, 1), (9, 1, 5), (9, 2, 4), (9, 4, 2), (9, 5, 1)]
+The cage covering (7,7), (8,7), (9,7) must have a product of 30.
+  Valid combos: [(1, 5, 6), (1, 6, 5), (2, 3, 5), (2, 5, 3), (3, 2, 5), (3, 5, 2), (5, 1, 6), (5, 2, 3), (5, 3, 2), (5, 6, 1), (6, 1, 5), (6, 5, 1)]
+The cage covering (8,2), (8,3), (9,3) must have a sum of 19.
+  Valid combos: [(2, 8, 9), (2, 9, 8), (3, 7, 9), (3, 9, 7), (4, 6, 9), (4, 7, 8), (4, 8, 7), (4, 9, 6), (5, 6, 8), (5, 8, 6), (5, 9, 5), (6, 4, 9), (6, 5, 8), (6, 7, 6), (6, 8, 5), (6, 9, 4), (7, 3, 9), (7, 4, 8), (7, 5, 7), (7, 8, 4), (7, 9, 3), (8, 2, 9), (8, 3, 8), (8, 4, 7), (8, 5, 6), (8, 6, 5), (8, 7, 4), (8, 9, 2), (9, 1, 9), (9, 2, 8), (9, 3, 7), (9, 4, 6), (9, 6, 4), (9, 7, 3), (9, 8, 2)]
+The cage covering (8,6), (9,6) must have a difference of 7.
+  Valid combos: [(1, 8), (2, 9), (8, 1), (9, 2)]
+The cage covering (8,8), (9,8), (9,9) must have a product of 216.
+  Valid combos: [(3, 8, 9), (3, 9, 8), (4, 6, 9), (4, 9, 6), (6, 4, 9), (6, 9, 4), (8, 3, 9), (8, 9, 3), (9, 3, 8), (9, 4, 6), (9, 6, 4), (9, 8, 3)]
+The cage covering (9,1), (9,2) must have a difference of 5.
+  Valid combos: [(1, 6), (2, 7), (3, 8), (4, 9), (6, 1), (7, 2), (8, 3), (9, 4)]
+Running logic-only…
+Perm-prune in 'The cage covering (2,1), (2,2) must have a product of 5.': (1, 0) [2, 3, 4, 5, 6, 7, 8, 9]→[5]
+Perm-prune in 'The cage covering (2,1), (2,2) must have a product of 5.': (1, 1) [1, 3, 4, 5, 7, 8, 9]→[1]
+Updated combos for 'The cage covering (1,1), (1,2) must have a product of 24.': [(3, 8), (6, 4), (8, 3)]
+Updated combos for 'The cage covering (1,8), (1,9) must have a difference of 3.': [(2, 5), (4, 7), (5, 2), (5, 8), (6, 3), (6, 9), (7, 4), (8, 5)]
+Updated combos for 'The cage covering (2,1), (2,2) must have a product of 5.': [(5, 1)]
+Updated combos for 'The cage covering (2,5), (3,5) must have a difference of 2.': [(2, 4), (3, 5), (5, 3), (5, 7), (6, 4), (6, 8), (7, 5), (7, 9), (9, 7)]
+Updated combos for 'The cage covering (3,1), (4,1) must have a sum of 5.': [(3, 2)]
+Updated combos for 'The cage covering (3,3), (3,4) must have a difference of 1.': [(3, 4), (4, 3), (4, 5), (5, 4), (7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.': [(3, 5, 8), (3, 8, 5), (4, 5, 6), (5, 3, 8), (5, 4, 6), (5, 8, 3), (8, 3, 5), (8, 5, 3)]
+Updated combos for 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.': [(1, 2, 3), (1, 3, 2), (1, 4, 1), (3, 1, 2), (3, 2, 1)]
+Updated combos for 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.': [(1, 7, 9), (1, 9, 7), (2, 6, 9), (2, 7, 8), (2, 8, 7), (2, 9, 6), (3, 5, 9), (3, 6, 8), (3, 8, 6), (3, 9, 5), (4, 5, 8), (4, 6, 7), (4, 7, 6), (4, 8, 5), (4, 9, 4), (5, 3, 9), (5, 4, 8), (5, 7, 5), (5, 8, 4), (5, 9, 3), (6, 2, 9), (6, 3, 8), (6, 4, 7), (6, 5, 6), (6, 7, 4), (6, 8, 3), (6, 9, 2), (7, 2, 8), (7, 3, 7), (7, 4, 6), (7, 6, 4), (7, 8, 2), (8, 2, 7), (8, 3, 6), (8, 4, 5), (8, 5, 4), (8, 6, 3), (8, 7, 2), (9, 2, 6), (9, 3, 5), (9, 5, 3), (9, 6, 2)]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(1, 7, 9), (1, 9, 7), (2, 6, 9), (2, 7, 8), (2, 8, 7), (2, 9, 6), (3, 5, 9), (3, 6, 8), (3, 8, 6), (3, 9, 5), (4, 5, 8), (4, 6, 7), (4, 7, 6), (4, 8, 5), (5, 3, 9), (5, 4, 8), (5, 8, 4), (5, 9, 3), (6, 2, 9), (6, 3, 8), (6, 4, 7), (6, 7, 4), (6, 8, 3), (6, 9, 2), (7, 2, 8), (7, 4, 6), (7, 6, 4), (7, 8, 2), (7, 9, 1), (8, 2, 7), (8, 3, 6), (8, 4, 5), (8, 5, 4), (8, 6, 3), (8, 7, 2), (9, 2, 6), (9, 3, 5), (9, 5, 3), (9, 6, 2), (9, 7, 1)]
+Updated combos for 'The cage covering (5,2), (6,2) must have a difference of 1.': [(3, 4), (4, 3), (4, 5), (5, 4), (7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.': [(3, 7, 8), (3, 8, 7), (4, 7, 6), (6, 4, 7), (6, 7, 4), (7, 3, 8), (7, 4, 6), (7, 8, 3), (8, 3, 7), (8, 7, 3)]
+Updated combos for 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.': [(3, 6, 9), (6, 3, 9), (6, 9, 3), (9, 2, 9), (9, 6, 3)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 7, 8), (1, 8, 7), (2, 5, 9), (2, 7, 7), (2, 9, 5), (3, 4, 9), (3, 5, 8), (3, 8, 5), (3, 9, 4), (4, 3, 9), (4, 5, 7), (4, 7, 5), (4, 9, 3), (5, 2, 9), (5, 3, 8), (5, 4, 7), (5, 7, 4), (5, 8, 3), (5, 9, 2), (6, 1, 9), (6, 2, 8), (6, 3, 7), (6, 5, 5), (6, 7, 3), (6, 8, 2), (6, 9, 1), (7, 1, 8), (7, 4, 5), (7, 5, 4), (7, 8, 1), (8, 1, 7), (8, 3, 5), (8, 4, 4), (8, 5, 3), (8, 7, 1), (9, 2, 5), (9, 3, 4), (9, 4, 3), (9, 5, 2)]
+Updated combos for 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.': [(2, 4, 9), (2, 5, 8), (2, 6, 7), (2, 7, 6), (2, 8, 5), (2, 9, 4), (3, 4, 8), (3, 5, 7), (3, 7, 5), (3, 8, 4), (4, 2, 9), (4, 3, 8), (4, 5, 6), (4, 6, 5), (4, 8, 3), (4, 9, 2), (5, 2, 8), (5, 3, 7), (5, 4, 6), (5, 6, 4), (5, 7, 3), (5, 8, 2), (7, 2, 6), (7, 3, 5), (7, 5, 3), (7, 6, 2), (8, 2, 5), (8, 3, 4), (8, 4, 3), (8, 5, 2), (9, 2, 4), (9, 4, 2)]
+Updated combos for 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.': [(1, 5, 6), (1, 6, 5), (2, 3, 5), (2, 5, 3), (3, 2, 5), (3, 5, 2), (5, 1, 6), (5, 2, 3), (5, 3, 2), (5, 6, 1)]
+Updated combos for 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.': [(3, 7, 9), (3, 9, 7), (4, 6, 9), (4, 7, 8), (4, 8, 7), (4, 9, 6), (5, 6, 8), (5, 8, 6), (5, 9, 5), (7, 3, 9), (7, 4, 8), (7, 5, 7), (7, 8, 4), (7, 9, 3), (8, 2, 9), (8, 3, 8), (8, 4, 7), (8, 5, 6), (8, 6, 5), (8, 7, 4), (8, 9, 2), (9, 1, 9), (9, 2, 8), (9, 3, 7), (9, 4, 6), (9, 6, 4), (9, 7, 3), (9, 8, 2)]
+Updated combos for 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.': [(3, 8, 9), (3, 9, 8), (4, 6, 9), (6, 4, 9), (6, 9, 4), (8, 3, 9), (8, 9, 3), (9, 3, 8), (9, 6, 4), (9, 8, 3)]
+Updated combos for 'The cage covering (9,1), (9,2) must have a difference of 5.': [(2, 7), (3, 8), (4, 9), (6, 1), (8, 3), (9, 4)]
+Pruned (0, 0): [2, 3, 4, 5, 6, 7, 8, 9]→[3, 6, 8]
+Pruned (0, 1): [3, 4, 5, 7, 8, 9]→[3, 4, 8]
+Pruned (0, 2): [2, 3, 4, 5, 6, 7, 8, 9]→[4, 5, 6, 7, 8, 9]
+Pruned (0, 3): [2, 3, 4, 5, 6, 7, 8, 9]→[4, 5, 6, 7, 8, 9]
+Pruned (0, 7): [2, 3, 4, 5, 6, 7, 8, 9]→[2, 4, 5, 6, 7, 8]
+Pruned (1, 2): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3, 4, 6, 7, 8, 9]
+Pruned (1, 3): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3, 4, 6, 7, 8, 9]
+Pruned (1, 4): [2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 5, 6, 7, 9]
+Pruned (1, 7): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[7, 8]
+Pruned (1, 8): [1, 2, 3, 4, 5, 7, 8, 9]→[7, 8]
+Pruned (2, 0): [3, 4, 5, 7, 8, 9]→[3]
+Pruned (3, 0): [2, 3, 4, 5, 6, 7, 8, 9]→[2]
+Pruned (2, 2): [1, 3, 4, 5, 7, 8, 9]→[3, 4, 5, 7, 8, 9]
+Pruned (2, 3): [1, 3, 4, 5, 7, 8, 9]→[3, 4, 5, 7, 8, 9]
+Pruned (2, 5): [1, 3, 4, 5, 7, 8, 9]→[3, 4, 5, 8]
+Pruned (2, 6): [1, 3, 4, 5, 7, 8, 9]→[3, 4, 5, 8]
+Pruned (3, 5): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[3, 5, 6, 8]
+Pruned (2, 7): [1, 3, 4, 5, 7, 8, 9]→[1, 3]
+Pruned (3, 7): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3, 4]
+Pruned (3, 8): [1, 2, 3, 4, 5, 7, 8, 9]→[1, 2, 3]
+Pruned (3, 1): [1, 3, 4, 5, 7, 8, 9]→[5, 8]
+Pruned (3, 2): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[5, 8]
+Pruned (3, 4): [2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 4, 6, 7]
+Pruned (4, 4): [2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 4, 6, 7]
+Pruned (4, 5): [2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 4, 6, 7]
+Pruned (5, 1): [1, 3, 4, 5, 7, 8, 9]→[3, 4, 5, 7, 8, 9]
+Pruned (5, 0): [2, 3, 4, 5, 6, 7, 8, 9]→[3, 4, 6, 7, 8]
+Pruned (6, 0): [2, 3, 4, 5, 7, 8, 9]→[3, 4, 7, 8]
+Pruned (7, 0): [2, 3, 4, 5, 6, 7, 8, 9]→[3, 4, 6, 7, 8]
+Pruned (5, 2): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3, 4]
+Pruned (5, 3): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3]
+Pruned (6, 2): [1, 2, 3, 4, 5, 7, 8, 9]→[1, 2, 3]
+Pruned (5, 4): [2, 3, 4, 5, 6, 7, 8, 9]→[3, 6, 9]
+Pruned (5, 5): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 6, 9]
+Pruned (6, 5): [1, 2, 3, 4, 5, 7, 8, 9]→[3, 9]
+Pruned (6, 3): [1, 2, 3, 4, 5, 7, 8, 9]→[1, 2, 4]
+Pruned (7, 3): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 4]
+Pruned (8, 3): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 4]
+Pruned (6, 6): [1, 2, 3, 4, 5, 7, 8, 9]→[1, 2, 3, 5]
+Pruned (7, 6): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3, 5, 6]
+Pruned (8, 6): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 3, 5, 6]
+Pruned (7, 1): [1, 3, 4, 5, 7, 8, 9]→[3, 4, 5, 7, 8, 9]
+Pruned (8, 2): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 4, 5, 6, 7, 8, 9]
+Pruned (7, 5): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 8, 9]
+Pruned (8, 5): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[1, 2, 8, 9]
+Pruned (7, 7): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[3, 4, 6, 8, 9]
+Pruned (8, 7): [1, 2, 3, 4, 5, 6, 7, 8, 9]→[3, 4, 6, 8, 9]
+Pruned (8, 8): [1, 2, 3, 4, 5, 7, 8, 9]→[3, 4, 8, 9]
+Pruned (8, 0): [2, 3, 4, 5, 6, 7, 8, 9]→[2, 3, 4, 6, 8, 9]
+Pruned (8, 1): [1, 3, 4, 5, 7, 8, 9]→[1, 3, 4, 7, 8, 9]
+Cage-line elim: remove 1 from (2,3) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 1 from (2,4) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 1 from (2,6) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 1 from (2,7) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 1 from (9,2) by col in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 5 from (2,5) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 5 from (2,6) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 5 from (2,7) by row in 'The cage covering (2,1), (2,2) must have a product of 5.'
+Cage-line elim: remove 7 from (2,3) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 7 from (2,4) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 7 from (2,5) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 7 from (2,6) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 7 from (2,7) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 8 from (2,3) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 8 from (2,4) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 8 from (2,6) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 8 from (2,7) by row in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 2 from (4,4) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 2 from (4,5) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 2 from (4,7) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 2 from (4,8) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 2 from (4,9) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 2 from (9,1) by col in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (3,3) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (3,4) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (3,5) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (3,6) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (3,7) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (3,8) by row in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (1,1) by col in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (6,1) by col in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (7,1) by col in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (8,1) by col in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 3 from (9,1) by col in 'The cage covering (3,1), (4,1) must have a sum of 5.'
+Cage-line elim: remove 5 from (4,4) by row in 'The cage covering (4,2), (4,3) must have a product of 40.'
+Cage-line elim: remove 5 from (4,6) by row in 'The cage covering (4,2), (4,3) must have a product of 40.'
+Cage-line elim: remove 5 from (4,7) by row in 'The cage covering (4,2), (4,3) must have a product of 40.'
+Cage-line elim: remove 8 from (4,4) by row in 'The cage covering (4,2), (4,3) must have a product of 40.'
+Cage-line elim: remove 8 from (4,6) by row in 'The cage covering (4,2), (4,3) must have a product of 40.'
+Cage-line elim: remove 8 from (4,7) by row in 'The cage covering (4,2), (4,3) must have a product of 40.'
+Cage-line elim: remove 1 from (4,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 1 from (6,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 2 from (2,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 2 from (5,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 2 from (6,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 4 from (1,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 4 from (2,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 4 from (3,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 4 from (4,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 4 from (5,4) by col in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 5 from (1,7) by col in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 5 from (3,7) by col in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 5 from (5,7) by col in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 5 from (6,7) by col in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Updated combos for 'The cage covering (1,1), (1,2) must have a product of 24.': [(6, 4), (8, 3)]
+Updated combos for 'The cage covering (1,3), (1,4) must have a sum of 13.': [(4, 9), (5, 8), (6, 7), (7, 6), (8, 5)]
+Updated combos for 'The cage covering (2,3), (2,4) must have a sum of 10.': [(4, 6)]
+Updated combos for 'The cage covering (2,5), (3,5) must have a difference of 2.': [(2, 4), (3, 5), (6, 4), (6, 8), (9, 7)]
+Updated combos for 'The cage covering (3,3), (3,4) must have a difference of 1.': [(4, 5), (7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.': [(5, 4, 6), (5, 8, 3)]
+Updated combos for 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.': [(1, 4, 1)]
+Updated combos for 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.': [(3, 5, 9), (3, 6, 8), (3, 8, 6), (3, 9, 5), (6, 3, 8), (6, 5, 6), (6, 7, 4), (6, 8, 3), (6, 9, 2), (7, 3, 7), (7, 6, 4), (7, 8, 2), (9, 3, 5), (9, 5, 3), (9, 6, 2)]
+Updated combos for 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.': [(3, 4, 7), (3, 7, 4), (4, 3, 7), (4, 7, 3), (6, 2, 7), (6, 7, 2), (7, 2, 6), (7, 3, 4), (7, 4, 3), (7, 6, 2)]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(1, 7, 9), (1, 9, 7), (3, 6, 8), (3, 8, 6), (4, 6, 7), (4, 7, 6), (6, 2, 9), (6, 3, 8), (6, 4, 7), (6, 7, 4), (6, 8, 3), (6, 9, 2), (7, 2, 8), (7, 4, 6), (7, 6, 4), (7, 8, 2), (7, 9, 1), (9, 2, 6), (9, 6, 2), (9, 7, 1)]
+Updated combos for 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.': [(4, 7, 6), (6, 4, 7), (6, 7, 4), (7, 4, 6)]
+Updated combos for 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.': [(1, 3, 2), (2, 3, 1)]
+Updated combos for 'The cage covering (9,1), (9,2) must have a difference of 5.': [(4, 9), (8, 3), (9, 4)]
+Pruned (0, 1): [3, 4, 8]→[3, 4]
+Pruned (0, 2): [4, 5, 6, 7, 8, 9]→[4, 5, 6, 7, 8]
+Pruned (1, 2): [2, 3, 4, 6, 9]→[4]
+Pruned (1, 3): [3, 6, 9]→[6]
+Pruned (2, 4): [4, 5, 7, 8, 9]→[4, 5, 7, 8]
+Pruned (2, 2): [4, 5, 7, 8, 9]→[4, 7, 8, 9]
+Pruned (2, 5): [4, 5, 8]→[5]
+Pruned (3, 7): [1, 3, 4]→[4]
+Pruned (3, 8): [1, 3]→[1]
+Pruned (5, 0): [4, 6, 7, 8]→[4, 6, 7]
+Pruned (6, 0): [4, 7, 8]→[4, 7]
+Pruned (7, 0): [4, 6, 7, 8]→[4, 6, 7]
+Pruned (5, 2): [1, 2, 3, 4]→[1, 2]
+Pruned (6, 2): [1, 2, 3]→[1, 2]
+Pruned (8, 0): [4, 6, 8, 9]→[4, 8, 9]
+Pruned (8, 1): [3, 4, 7, 8, 9]→[3, 4, 9]
+Cage-line elim: remove 4 from (2,6) by row in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 4 from (2,7) by row in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 4 from (1,3) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 4 from (3,3) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 4 from (5,3) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 4 from (8,3) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 4 from (9,3) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 6 from (2,5) by row in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 6 from (2,6) by row in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 6 from (2,7) by row in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 6 from (1,4) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 6 from (4,4) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 6 from (5,4) by col in 'The cage covering (2,3), (2,4) must have a sum of 10.'
+Cage-line elim: remove 5 from (3,4) by row in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 5 from (3,5) by row in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 5 from (1,6) by col in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 4 from (4,5) by row in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (4,7) by row in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (1,8) by col in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (5,8) by col in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (6,8) by col in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (7,8) by col in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (8,8) by col in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (9,8) by col in 'The cage covering (3,8), (4,8), (4,9) must have a sum of 6.'
+Cage-line elim: remove 4 from (9,1) by col in 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.'
+Cage-line elim: remove 6 from (1,1) by col in 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.'
+Cage-line elim: remove 1 from (8,3) by col in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 2 from (5,3) by col in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 2 from (8,3) by col in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 2 from (9,3) by col in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (6,2) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (6,5) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (6,6) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (6,7) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (6,8) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (6,9) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (4,4) by col in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 3 from (5,4) by col in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Updated combos for 'The cage covering (1,1), (1,2) must have a product of 24.': [(8, 3)]
+Updated combos for 'The cage covering (1,3), (1,4) must have a sum of 13.': [(5, 8), (6, 7), (8, 5)]
+Updated combos for 'The cage covering (1,8), (1,9) must have a difference of 3.': [(2, 5), (5, 2), (5, 8), (6, 3), (6, 9), (7, 4), (8, 5)]
+Updated combos for 'The cage covering (2,5), (3,5) must have a difference of 2.': [(2, 4), (9, 7)]
+Updated combos for 'The cage covering (3,3), (3,4) must have a difference of 1.': [(7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.': [(9, 5, 3)]
+Updated combos for 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.': [(3, 4, 7), (3, 7, 4), (6, 2, 7), (6, 7, 2), (7, 2, 6), (7, 3, 4), (7, 4, 3), (7, 6, 2)]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(1, 7, 9), (1, 9, 7), (3, 6, 8), (3, 8, 6), (6, 2, 9), (6, 3, 8), (6, 4, 7), (6, 7, 4), (6, 9, 2), (7, 2, 8), (7, 4, 6), (7, 6, 4), (7, 8, 2), (7, 9, 1), (9, 2, 6), (9, 6, 2), (9, 7, 1)]
+Updated combos for 'The cage covering (5,2), (6,2) must have a difference of 1.': [(3, 4), (4, 5), (5, 4), (7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.': [(6, 9, 3), (9, 2, 9), (9, 6, 3)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 7, 8), (1, 8, 7), (2, 5, 9), (2, 7, 7), (2, 9, 5), (5, 2, 9), (5, 4, 7), (5, 8, 3), (5, 9, 2), (6, 1, 9), (6, 2, 8), (6, 5, 5), (6, 7, 3), (6, 8, 2), (6, 9, 1), (7, 1, 8), (7, 4, 5), (7, 8, 1), (8, 1, 7), (8, 5, 3), (8, 7, 1), (9, 2, 5), (9, 4, 3), (9, 5, 2)]
+Updated combos for 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.': [(3, 7, 9), (3, 9, 7), (4, 6, 9), (4, 7, 8), (4, 8, 7), (4, 9, 6), (5, 6, 8), (5, 8, 6), (5, 9, 5), (7, 3, 9), (7, 5, 7), (7, 9, 3), (8, 3, 8), (8, 5, 6), (8, 6, 5), (9, 3, 7), (9, 7, 3)]
+Updated combos for 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.': [(3, 8, 9), (3, 9, 8), (6, 9, 4), (8, 3, 9), (8, 9, 3), (9, 3, 8), (9, 6, 4), (9, 8, 3)]
+Updated combos for 'The cage covering (9,1), (9,2) must have a difference of 5.': [(8, 3), (9, 4)]
+Pruned (0, 1): [3, 4]→[3]
+Pruned (0, 2): [5, 6, 7, 8]→[5, 6, 8]
+Pruned (0, 3): [5, 7, 8, 9]→[5, 7, 8]
+Pruned (0, 8): [2, 3, 4, 5, 7, 8, 9]→[2, 3, 4, 5, 8, 9]
+Pruned (1, 4): [2, 3, 9]→[2, 9]
+Pruned (2, 4): [4, 7, 8]→[4, 7]
+Pruned (3, 3): [7, 9]→[9]
+Pruned (4, 3): [5, 7, 8, 9]→[5]
+Pruned (4, 2): [3, 5, 6, 7, 8, 9]→[3]
+Pruned (8, 1): [3, 4, 9]→[3, 4]
+Cage-line elim: remove 3 from (1,6) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 3 from (1,7) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 3 from (1,9) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 3 from (5,2) by col in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 3 from (8,2) by col in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 3 from (9,2) by col in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (1,3) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (1,4) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (1,6) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (1,7) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (1,8) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (1,9) by row in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (9,1) by col in 'The cage covering (1,1), (1,2) must have a product of 24.'
+Cage-line elim: remove 8 from (3,7) by row in 'The cage covering (3,3), (3,4) must have a difference of 1.'
+Cage-line elim: remove 3 from (5,5) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 3 from (5,6) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 3 from (5,7) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 3 from (5,8) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 3 from (5,9) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 3 from (8,3) by col in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 3 from (9,3) by col in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 5 from (5,2) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 5 from (5,8) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 5 from (5,9) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 5 from (1,4) by col in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 9 from (4,7) by row in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Cage-line elim: remove 9 from (3,4) by col in 'The cage covering (4,4), (5,4), (5,3) must have a sum of 17.'
+Updated combos for 'The cage covering (1,3), (1,4) must have a sum of 13.': [(6, 7)]
+Updated combos for 'The cage covering (1,8), (1,9) must have a difference of 3.': [(2, 5), (5, 2), (6, 9), (7, 4)]
+Updated combos for 'The cage covering (3,3), (3,4) must have a difference of 1.': [(7, 8), (8, 7), (9, 8)]
+Updated combos for 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.': [(5, 4, 6)]
+Updated combos for 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.': [(3, 4, 7), (3, 7, 4), (6, 2, 7), (6, 7, 2), (7, 2, 6), (7, 6, 2)]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(1, 7, 9), (1, 9, 7), (3, 6, 8), (3, 8, 6), (6, 2, 9), (6, 4, 7), (6, 7, 4), (6, 9, 2), (7, 2, 8), (7, 4, 6), (7, 6, 4), (7, 8, 2), (7, 9, 1)]
+Updated combos for 'The cage covering (5,2), (6,2) must have a difference of 1.': [(4, 5), (7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.': [(4, 6, 9), (4, 7, 8), (4, 8, 7), (4, 9, 6), (5, 6, 8), (5, 8, 6), (5, 9, 5), (7, 5, 7), (8, 5, 6), (8, 6, 5)]
+Updated combos for 'The cage covering (9,1), (9,2) must have a difference of 5.': [(9, 4)]
+Pruned (0, 2): [5, 6]→[6]
+Pruned (3, 5): [3, 6]→[6]
+Pruned (5, 1): [4, 5, 7, 8, 9]→[5, 7, 8, 9]
+Pruned (7, 1): [4, 5, 7, 8, 9]→[4, 5, 7, 8]
+Cage-line elim: remove 6 from (1,6) by row in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 6 from (1,7) by row in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 6 from (1,8) by row in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 6 from (8,3) by col in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 6 from (9,3) by col in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 7 from (1,6) by row in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 7 from (1,7) by row in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 7 from (1,8) by row in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 7 from (3,4) by col in 'The cage covering (1,3), (1,4) must have a sum of 13.'
+Cage-line elim: remove 4 from (3,5) by row in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 4 from (1,7) by col in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 4 from (5,7) by col in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 4 from (6,7) by col in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 6 from (4,5) by row in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 6 from (4,7) by row in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 6 from (5,6) by col in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 6 from (6,6) by col in 'The cage covering (3,6), (3,7), (4,6) must have a product of 120.'
+Cage-line elim: remove 4 from (9,4) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 4 from (9,5) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 4 from (9,9) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 4 from (5,2) by col in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 4 from (8,2) by col in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 9 from (9,3) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 9 from (9,5) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 9 from (9,6) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 9 from (9,8) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Cage-line elim: remove 9 from (9,9) by row in 'The cage covering (9,1), (9,2) must have a difference of 5.'
+Updated combos for 'The cage covering (1,8), (1,9) must have a difference of 3.': [(2, 5), (5, 2)]
+Updated combos for 'The cage covering (2,5), (3,5) must have a difference of 2.': [(9, 7)]
+Updated combos for 'The cage covering (3,3), (3,4) must have a difference of 1.': [(7, 8), (9, 8)]
+Updated combos for 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.': [(3, 4, 7), (3, 7, 4), (7, 6, 2)]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(1, 7, 9), (1, 9, 7), (3, 6, 8), (3, 8, 6), (7, 2, 8), (7, 8, 2), (7, 9, 1)]
+Updated combos for 'The cage covering (5,2), (6,2) must have a difference of 1.': [(7, 8), (8, 7), (8, 9), (9, 8)]
+Updated combos for 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.': [(6, 9, 3), (9, 2, 9)]
+Updated combos for 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.': [(1, 4, 2), (2, 4, 1), (4, 1, 2), (4, 2, 1)]
+Updated combos for 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.': [(2, 5, 8), (2, 6, 7), (2, 7, 6), (2, 8, 5), (3, 4, 8), (3, 5, 7), (3, 7, 5), (4, 3, 8), (4, 5, 6), (4, 6, 5), (4, 8, 3), (4, 9, 2), (5, 2, 8), (5, 3, 7), (5, 4, 6), (5, 7, 3), (5, 8, 2), (7, 2, 6), (7, 3, 5), (7, 5, 3), (7, 6, 2), (8, 2, 5), (8, 4, 3), (8, 5, 2), (9, 4, 2)]
+Updated combos for 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.': [(5, 9, 5), (7, 5, 7)]
+Updated combos for 'The cage covering (8,6), (9,6) must have a difference of 7.': [(1, 8), (8, 1), (9, 2)]
+Updated combos for 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.': [(9, 3, 8), (9, 8, 3)]
+Pruned (0, 8): [2, 4, 5, 9]→[2, 5]
+Pruned (1, 4): [2, 9]→[9]
+Pruned (2, 2): [7, 8, 9]→[7, 9]
+Pruned (4, 4): [2, 4, 6, 7]→[4, 6, 7]
+Pruned (5, 1): [5, 7, 8, 9]→[7, 8, 9]
+Pruned (7, 1): [5, 7, 8]→[5, 7]
+Pruned (7, 2): [5, 7, 8, 9]→[5, 9]
+Pruned (8, 2): [5, 7, 8]→[5, 7]
+Pruned (7, 5): [1, 2, 8, 9]→[1, 8, 9]
+Pruned (7, 7): [3, 6, 8, 9]→[9]
+Pruned (8, 7): [3, 6, 8]→[3, 8]
+Cage-line elim: remove 2 from (1,6) by row in 'The cage covering (1,8), (1,9) must have a difference of 3.'
+Cage-line elim: remove 2 from (1,7) by row in 'The cage covering (1,8), (1,9) must have a difference of 3.'
+Cage-line elim: remove 7 from (3,3) by row in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 7 from (4,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 7 from (5,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 7 from (7,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 7 from (8,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 7 from (9,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 9 from (2,6) by row in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 9 from (2,7) by row in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 9 from (6,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 9 from (7,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 9 from (8,5) by col in 'The cage covering (2,5), (3,5) must have a difference of 2.'
+Cage-line elim: remove 8 from (4,2) by col in 'The cage covering (5,2), (6,2) must have a difference of 1.'
+Cage-line elim: remove 3 from (9,5) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 3 from (9,7) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 8 from (9,5) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 8 from (9,6) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 9 from (8,3) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 9 from (8,6) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 9 from (8,9) by row in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 9 from (5,8) by col in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 9 from (6,8) by col in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Cage-line elim: remove 9 from (7,8) by col in 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.'
+Perm-prune in 'The cage covering (4,2), (4,3) must have a product of 40.': (3, 2) [5, 8]→[8]
+Updated combos for 'The cage covering (3,3), (3,4) must have a difference of 1.': [(9, 8)]
+Updated combos for 'The cage covering (4,2), (4,3) must have a product of 40.': [(5, 8)]
+Updated combos for 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.': [(3, 4, 7)]
+Updated combos for 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.': [(6, 9, 3)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 7, 8), (1, 8, 7), (2, 7, 7), (2, 9, 5), (5, 4, 7), (5, 8, 3), (5, 9, 2), (6, 2, 8), (6, 5, 5), (6, 7, 3), (6, 8, 2), (6, 9, 1), (7, 1, 8), (7, 4, 5), (7, 8, 1), (8, 1, 7), (8, 5, 3), (8, 7, 1)]
+Updated combos for 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.': [(2, 8, 5), (4, 5, 6), (4, 6, 5), (5, 4, 6), (5, 8, 2), (8, 2, 5), (8, 5, 2)]
+Updated combos for 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.': [(1, 5, 6), (1, 6, 5), (2, 3, 5), (3, 2, 5), (3, 5, 2), (5, 1, 6), (5, 3, 2), (5, 6, 1)]
+Updated combos for 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.': [(7, 5, 7)]
+Updated combos for 'The cage covering (8,6), (9,6) must have a difference of 7.': [(8, 1)]
+Pruned (4, 4): [4, 6]→[4]
+Pruned (4, 5): [2, 4, 7]→[7]
+Pruned (5, 5): [2, 9]→[9]
+Pruned (6, 5): [3, 9]→[3]
+Pruned (6, 4): [2, 3, 4, 5, 8]→[2, 4, 5, 8]
+Pruned (7, 4): [2, 3, 4, 5, 6, 8]→[2, 4, 5, 6, 8]
+Pruned (7, 1): [5, 7]→[7]
+Pruned (8, 2): [5, 7]→[7]
+Pruned (7, 5): [1, 8]→[8]
+Pruned (8, 5): [1, 2]→[1]
+Cage-line elim: remove 3 from (4,7) by row in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 4 from (5,9) by row in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 4 from (7,5) by col in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 4 from (8,5) by col in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 7 from (5,2) by row in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 7 from (5,7) by row in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 7 from (5,8) by row in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 7 from (5,9) by row in 'The cage covering (4,5), (5,5), (5,6) must have a product of 84.'
+Cage-line elim: remove 3 from (7,7) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 3 from (7,8) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 3 from (7,9) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 3 from (2,6) by col in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 6 from (6,1) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 6 from (6,7) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 6 from (6,8) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 6 from (8,5) by col in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 6 from (9,5) by col in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 9 from (6,2) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 9 from (6,7) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 9 from (6,9) by row in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 9 from (1,6) by col in 'The cage covering (6,5), (6,6), (7,6) must have a product of 162.'
+Cage-line elim: remove 5 from (8,5) by row in 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.'
+Cage-line elim: remove 5 from (8,7) by row in 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.'
+Cage-line elim: remove 5 from (8,9) by row in 'The cage covering (8,2), (8,3), (9,3) must have a sum of 19.'
+Cage-line elim: remove 1 from (9,4) by row in 'The cage covering (8,6), (9,6) must have a difference of 7.'
+Cage-line elim: remove 1 from (9,7) by row in 'The cage covering (8,6), (9,6) must have a difference of 7.'
+Cage-line elim: remove 8 from (8,5) by row in 'The cage covering (8,6), (9,6) must have a difference of 7.'
+Cage-line elim: remove 8 from (8,9) by row in 'The cage covering (8,6), (9,6) must have a difference of 7.'
+Perm-prune in 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.': (7, 0) [4, 6, 7]→[6]
+Perm-prune in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.': (6, 3) [1, 2, 4]→[1, 4]
+Perm-prune in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.': (7, 3) [1, 2, 4]→[1, 4]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(1, 9, 7), (7, 2, 8), (7, 8, 2), (7, 9, 1)]
+Updated combos for 'The cage covering (5,2), (6,2) must have a difference of 1.': [(8, 7), (9, 8)]
+Updated combos for 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.': [(4, 7, 6), (7, 4, 6)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 7, 8), (1, 8, 7), (2, 7, 7), (5, 4, 7), (7, 1, 8), (7, 4, 5), (7, 8, 1), (8, 1, 7), (8, 7, 1)]
+Updated combos for 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.': [(1, 4, 2), (4, 1, 2)]
+Updated combos for 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.': [(8, 2, 5)]
+Updated combos for 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.': [(1, 6, 5), (2, 3, 5), (5, 1, 6), (5, 3, 2)]
+Pruned (4, 6): [2, 6, 8, 9]→[2, 8, 9]
+Pruned (5, 8): [1, 2, 4, 5, 7, 8]→[1, 4, 7, 8]
+Pruned (6, 7): [1, 2, 5, 7, 8]→[1, 5, 7, 8]
+Pruned (6, 4): [2, 5, 8]→[8]
+Pruned (8, 4): [2, 5]→[5]
+Pruned (7, 6): [1, 2, 3, 6]→[1, 3, 6]
+Cage-line elim: remove 6 from (8,7) by row in 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.'
+Cage-line elim: remove 2 from (9,7) by row in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 2 from (8,9) by row in 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.'
+Cage-line elim: remove 5 from (9,7) by row in 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.'
+Cage-line elim: remove 8 from (7,8) by row in 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.'
+Cage-line elim: remove 8 from (7,9) by row in 'The cage covering (7,5), (8,5), (9,5) must have a sum of 15.'
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 8, 7), (2, 7, 7), (5, 4, 7), (7, 4, 5), (7, 8, 1), (8, 1, 7), (8, 7, 1)]
+Updated combos for 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.': [(5, 1, 6)]
+Pruned (6, 6): [1, 2, 5]→[5]
+Pruned (7, 6): [1, 3]→[1]
+Cage-line elim: remove 1 from (8,4) by row in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 1 from (8,9) by row in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 1 from (4,7) by col in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 1 from (6,7) by col in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 5 from (7,8) by row in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Cage-line elim: remove 5 from (7,9) by row in 'The cage covering (7,7), (8,7), (9,7) must have a product of 30.'
+Perm-prune in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.': (6, 3) [1, 4]→[1]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(7, 2, 8), (7, 8, 2)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 8, 7), (2, 7, 7), (5, 4, 7), (7, 8, 1), (8, 1, 7), (8, 7, 1)]
+Updated combos for 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.': [(1, 4, 2)]
+Pruned (4, 6): [2, 8, 9]→[2, 8]
+Pruned (5, 6): [2, 7, 8]→[2, 8]
+Cage-line elim: remove 2 from (2,7) by col in 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.'
+Cage-line elim: remove 1 from (7,3) by row in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 1 from (7,8) by row in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 1 from (7,9) by row in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Cage-line elim: remove 4 from (8,9) by row in 'The cage covering (7,4), (8,4), (9,4) must have a product of 8.'
+Perm-prune in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.': (5, 2) [1, 2]→[1]
+Updated combos for 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.': [(1, 3, 2)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(1, 8, 7), (2, 7, 7), (5, 4, 7), (8, 1, 7)]
+Pruned (5, 7): [1, 2, 5, 7, 8]→[1, 2, 5, 8]
+Cage-line elim: remove 1 from (6,8) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 1 from (6,9) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Cage-line elim: remove 2 from (7,9) by row in 'The cage covering (6,3), (6,4), (7,3) must have a sum of 6.'
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(2, 7, 7), (5, 4, 7)]
+Pruned (5, 7): [2, 5, 8]→[2, 5]
+Pruned (5, 8): [4, 7, 8]→[4, 7]
+Cage-single-combo: Cell (1,1) = 8
+Cage-single-combo: Cell (1,2) = 3
+Cage-single-combo: Cell (1,3) = 6
+Cage-single-combo: Cell (1,4) = 7
+Cage-single-combo: Cell (2,1) = 5
+Cage-single-combo: Cell (2,2) = 1
+Cage-single-combo: Cell (2,3) = 4
+Cage-single-combo: Cell (2,4) = 6
+Cage-single-combo: Cell (2,5) = 9
+Cage-single-combo: Cell (3,5) = 7
+Cage-single-combo: Cell (3,1) = 3
+Cage-single-combo: Cell (4,1) = 2
+Cage-single-combo: Cell (3,3) = 9
+Cage-single-combo: Cell (3,4) = 8
+Cage-single-combo: Cell (3,6) = 5
+Cage-single-combo: Cell (3,7) = 4
+Cage-single-combo: Cell (4,6) = 6
+Cage-single-combo: Cell (3,8) = 1
+Cage-single-combo: Cell (4,8) = 4
+Cage-single-combo: Cell (4,9) = 1
+Cage-single-combo: Cell (4,2) = 5
+Cage-single-combo: Cell (4,3) = 8
+Cage-single-combo: Cell (4,4) = 9
+Cage-single-combo: Cell (5,4) = 5
+Cage-single-combo: Cell (5,3) = 3
+Cage-single-combo: Cell (4,5) = 3
+Cage-single-combo: Cell (5,5) = 4
+Cage-single-combo: Cell (5,6) = 7
+Cage-single-combo: Cell (6,3) = 1
+Cage-single-combo: Cell (6,4) = 3
+Cage-single-combo: Cell (7,3) = 2
+Cage-single-combo: Cell (6,5) = 6
+Cage-single-combo: Cell (6,6) = 9
+Cage-single-combo: Cell (7,6) = 3
+Cage-single-combo: Cell (7,4) = 1
+Cage-single-combo: Cell (8,4) = 4
+Cage-single-combo: Cell (9,4) = 2
+Cage-single-combo: Cell (7,5) = 8
+Cage-single-combo: Cell (8,5) = 2
+Cage-single-combo: Cell (9,5) = 5
+Cage-single-combo: Cell (7,7) = 5
+Cage-single-combo: Cell (8,7) = 1
+Cage-single-combo: Cell (9,7) = 6
+Cage-single-combo: Cell (8,2) = 7
+Peer elim: remove 7 from (8,9) by row uniqueness
+Peer elim: remove 7 from (6,2) by col uniqueness
+Cage-single-combo: Cell (8,3) = 5
+Cage-single-combo: Cell (9,3) = 7
+Cage-single-combo: Cell (8,6) = 8
+Cage-single-combo: Cell (9,6) = 1
+Cage-single-combo: Cell (9,1) = 9
+Cage-single-combo: Cell (9,2) = 4
+Naked single: Cell (1,6) = 4
+Naked single: Cell (1,7) = 9
+Naked single: Cell (2,6) = 2
+Naked single: Cell (2,7) = 3
+Naked single: Cell (4,7) = 7
+Naked single: Cell (6,2) = 8
+Peer elim: remove 8 from (6,7) by row uniqueness
+Peer elim: remove 8 from (5,2) by col uniqueness
+Naked single: Cell (6,7) = 2
+Peer elim: remove 2 from (6,8) by row uniqueness
+Peer elim: remove 2 from (5,7) by col uniqueness
+Naked single: Cell (6,8) = 5
+Peer elim: remove 5 from (1,8) by col uniqueness
+Naked single: Cell (7,8) = 7
+Peer elim: remove 7 from (7,1) by row uniqueness
+Peer elim: remove 7 from (7,9) by row uniqueness
+Peer elim: remove 7 from (2,8) by col uniqueness
+Naked single: Cell (8,1) = 6
+Naked single: Cell (8,8) = 9
+Naked single: Cell (8,9) = 3
+Peer elim: remove 3 from (9,9) by col uniqueness
+Naked single: Cell (9,9) = 8
+Peer elim: remove 8 from (9,8) by row uniqueness
+Peer elim: remove 8 from (2,9) by col uniqueness
+Peer elim: remove 8 from (5,9) by col uniqueness
+Perm-prune in 'The cage covering (1,8), (1,9) must have a difference of 3.': (0, 8) [2, 5]→[5]
+Perm-prune in 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.': (5, 0) [4, 7]→[7]
+Updated combos for 'The cage covering (1,8), (1,9) must have a difference of 3.': [(2, 5)]
+Updated combos for 'The cage covering (2,8), (2,9) must have a product of 56.': [(8, 7)]
+Updated combos for 'The cage covering (4,7), (5,7), (6,7) must have a sum of 17.': [(7, 8, 2)]
+Updated combos for 'The cage covering (5,2), (6,2) must have a difference of 1.': [(9, 8)]
+Updated combos for 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.': [(7, 4, 6)]
+Updated combos for 'The cage covering (6,8), (6,9), (7,8) must have a sum of 16.': [(5, 4, 7)]
+Updated combos for 'The cage covering (8,8), (9,8), (9,9) must have a product of 216.': [(9, 3, 8)]
+Pruned (5, 8): [4, 7]→[4]
+Cage-line elim: remove 2 from (5,8) by col in 'The cage covering (1,8), (1,9) must have a difference of 3.'
+Cage-line elim: remove 8 from (5,8) by col in 'The cage covering (2,8), (2,9) must have a product of 56.'
+Cage-line elim: remove 9 from (5,9) by row in 'The cage covering (5,2), (6,2) must have a difference of 1.'
+Cage-line elim: remove 4 from (7,9) by row in 'The cage covering (6,1), (7,1), (8,1) must have a product of 168.'
+Cage-single-combo: Cell (1,8) = 2
+Cage-single-combo: Cell (1,9) = 5
+Cage-single-combo: Cell (2,8) = 8
+Cage-single-combo: Cell (2,9) = 7
+Cage-single-combo: Cell (5,7) = 8
+Cage-single-combo: Cell (5,2) = 9
+Cage-single-combo: Cell (6,1) = 7
+Cage-single-combo: Cell (7,1) = 4
+Cage-single-combo: Cell (6,9) = 4
+Cage-single-combo: Cell (9,8) = 3
+Naked single: Cell (5,8) = 6
+Naked single: Cell (5,9) = 2
+Naked single: Cell (7,9) = 9
+Solved!
+Solution: {(0, 0): 8, (0, 1): 3, (0, 2): 6, (0, 3): 7, (0, 4): 1, (0, 5): 4, (0, 6): 9, (0, 7): 2, (0, 8): 5, (1, 0): 5, (1, 1): 1, (1, 2): 4, (1, 3): 6, (1, 4): 9, (1, 5): 2, (1, 6): 3, (1, 7): 8, (1, 8): 7, (2, 0): 3, (2, 1): 2, (2, 2): 9, (2, 3): 8, (2, 4): 7, (2, 5): 5, (2, 6): 4, (2, 7): 1, (2, 8): 6, (3, 0): 2, (3, 1): 5, (3, 2): 8, (3, 3): 9, (3, 4): 3, (3, 5): 6, (3, 6): 7, (3, 7): 4, (3, 8): 1, (4, 0): 1, (4, 1): 9, (4, 2): 3, (4, 3): 5, (4, 4): 4, (4, 5): 7, (4, 6): 8, (4, 7): 6, (4, 8): 2, (5, 0): 7, (5, 1): 8, (5, 2): 1, (5, 3): 3, (5, 4): 6, (5, 5): 9, (5, 6): 2, (5, 7): 5, (5, 8): 4, (6, 0): 4, (6, 1): 6, (6, 2): 2, (6, 3): 1, (6, 4): 8, (6, 5): 3, (6, 6): 5, (6, 7): 7, (6, 8): 9, (7, 0): 6, (7, 1): 7, (7, 2): 5, (7, 3): 4, (7, 4): 2, (7, 5): 8, (7, 6): 1, (7, 7): 9, (7, 8): 3, (8, 0): 9, (8, 1): 4, (8, 2): 7, (8, 3): 2, (8, 4): 5, (8, 5): 1, (8, 6): 6, (8, 7): 3, (8, 8): 8}
+
