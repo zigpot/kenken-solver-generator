@@ -9,7 +9,7 @@ class KenKenInputSolver(Scene):
     def __init__(self, input_file=None, **kwargs):
         super().__init__(**kwargs)
         #self.input_file = input_file or "5x5_puzzle.txt"
-        self.input_file = "8x8_puzzle.txt"
+        self.input_file = "descriptors/9x9_puzzle.txt"
         self.puzzle_data = None
         self.solution_data = None
         
