@@ -11,5 +11,7 @@ env/
 .DS_Store
 .ipynb_checkpoints/
 media/
+media_/
+descriptors/
 video/
 
