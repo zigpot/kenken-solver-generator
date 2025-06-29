@@ -44,15 +44,19 @@ The cage covering (0,0)...
 ## ▶️ Usage
 
 ```bash
-python kenken_generator.py descriptors/6x6_puzzle.txt
+manim kenken_generator.py KenkenGenerator
 ```
 
 Optional flags:
 
 ```bash
---output output_filename
---quality [low|medium|high]
+-p # play preview by the end of rendering
+-qh # high quality (1080p)
+-qm # medium quality (720p, default)
+-ql # low quality (480p)
 ```
+
+flags can be combined, e.g. `manim kenken_generator.py KenkenGenerator -pqh`
 
 ## 📦 Project Structure
 
